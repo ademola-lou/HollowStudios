@@ -1,5 +1,6 @@
-# bgfx starter template
+# HollowStudios
 
-created on mx linux
-
-Run CMake to configure and build. Go into `/build` dir and run the executable `./bgfx_proj` from there.
+#Done
+[x] Implemented .Obj loader
+[x] Free Camera control
+[-] Implemented .gltf loader
